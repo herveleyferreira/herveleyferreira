@@ -9,8 +9,9 @@ Gosto de explorar diferentes áreas da computação e estou sempre em busca de n
 
 Seja bem-vindo(a) ao meu repositório! 🚀💻
 
-### 🛠️ *Tecnologias que uso*
+***
 
+## 🛠️ *Tecnologias que uso*
 <div style="display: inline_block"><br>
   <h3> ☁️ DevOps / Cloud </h3>
   <img align="center" alt="AWS-CLOUD" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-plain.svg" />
@@ -38,7 +39,9 @@ Seja bem-vindo(a) ao meu repositório! 🚀💻
   <img  align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 </div>
 
-### 📊 Estatísticas
+***
+
+## 📊 *Estatísticas*
 
 <p>
   <img 
@@ -56,6 +59,7 @@ Seja bem-vindo(a) ao meu repositório! 🚀💻
   />
 </p>
 
+***
 
 ### 🚀 *Me encontre aqui*
 <div>
