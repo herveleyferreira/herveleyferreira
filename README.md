@@ -29,21 +29,24 @@ Seja bem-vindo(a) ao meu repositório! 🚀💻
 
 ## 📊 *Estatísticas*
 
-<p>
-  <img 
-    alt="Estatísticas do GitHub de Herveley Ferreira" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=herveleyferreira&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
-  />
-</p>
-
-<p>
-  <img 
-    alt="Linguagens mais usadas por Herveley" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=herveleyferreira&theme=dracula&layout=compact&custom_title=Linguagens%20Mais%20Usadas&langs_count=8" 
-  />
-</p>
+<table>
+  <tr>
+    <td>
+      <img 
+        alt="Estatísticas do GitHub de Herveley Ferreira" 
+        src="https://github-readme-stats.vercel.app/api?username=herveleyferreira&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
+        height="180"
+      />
+    </td>
+    <td>
+      <img 
+        alt="Linguagens mais usadas por Herveley" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=herveleyferreira&theme=dracula&layout=compact&custom_title=Linguagens%20Mais%20Usadas&langs_count=8" 
+        height="180"
+      />
+    </td>
+  </tr>
+</table>
 
 ***
 
