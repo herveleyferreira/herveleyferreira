@@ -59,3 +59,10 @@ Seja bem-vindo(a) ao meu repositório! 🚀💻
     <img src="https://img.shields.io/badge/🧠 Portfólio-800080?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio">
   </a>
 </div>
+
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/herveleyferreira/herveleyferreira/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/herveleyferreira/herveleyferreira/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/herveleyferreira/herveleyferreira/output/github-contribution-grid-snake.svg">
+</picture>
