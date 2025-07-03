@@ -13,31 +13,17 @@ Seja bem-vindo(a) ao meu repositório! 🚀💻
 
 ## 🛠️ *Tecnologias que uso*
 <div style="display: inline_block"><br>
-  <h3> ☁️ DevOps / Cloud </h3>
   <img align="center" alt="AWS-CLOUD" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-plain.svg" />
-  <img align="center" alt="AWS-CLOUD" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-  <img align="center" alt="DOCKER" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg">
-  <img align="center" alt="KUBERNETES" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg">
-</div>
-
-<div style="display: inline_block"><br>
-  <h3> 💡 Linguagens de Programação </h3>
+  <img align="center" alt="AWS-CLOUD" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+  <img align="center" alt="DOCKER" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"/>
+  <img align="center" alt="KUBERNETES" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg"/>
   <img  align="center" alt="JAVA" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   <img  align="center" alt="PYTHON" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-</div>
-
-<div style="display: inline_block"><br>
-  <h3> 💾 Banco de Dados </h3>
   <img  align="center" alt="MYSQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <img  align="center" alt="POSTGRESQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
-</div>
-
-<div style="display: inline_block"><br>
-  <h3> 🎨 Frontend </h3>
   <img align="center" alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
   <img align="center" alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
   <img  align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-</div>
 
 ***
 
