@@ -39,8 +39,8 @@ Seja bem-vindo(a) ao meu repositório! 🚀💻
     </td>
     <td>
       <img 
-        alt="Linguagens mais usadas por Herveley" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=herveleyferreira&theme=dracula&layout=compact&custom_title=Linguagens%20Mais%20Usadas&langs_count=8" 
+        alt="Linguagens mais usadas por Herveley"
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herveleyferreira&theme=dracula&layout=compact&langs_count=10&cache_seconds=60"
         height="180"
       />
     </td>
