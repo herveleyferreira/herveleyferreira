@@ -17,31 +17,8 @@ Seja bem-vindo(a) ao meu repositório! 🚀💻
   <img align="center" alt="KUBERNETES" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg"/>
   <img  align="center" alt="JAVA" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   <img  align="center" alt="PYTHON" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-  <img  align="center" alt="GRAFANA" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" />
-  <img  align="center" alt="PROMETHEUS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" />
-
-***
-
-## 📊 *Estatísticas*
-
-<table>
-  <tr>
-    <td>
-      <img 
-        alt="Estatísticas do GitHub de Herveley Ferreira" 
-        src="https://github-readme-stats.vercel.app/api?username=herveleyferreira&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
-        height="180"
-      />
-    </td>
-    <td>
-      <img 
-        alt="Linguagens mais usadas por Herveley"
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herveleyferreira&theme=dracula&layout=compact&langs_count=10&cache_seconds=60"
-        height="180"
-      />
-    </td>
-  </tr>
-</table>
+  <img  align="center" alt="GRAFANA" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original-wordmark.svg" />
+  <img  align="center" alt="PROMETHEUS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-plain-wordmark.svg" />
 
 ***
 
