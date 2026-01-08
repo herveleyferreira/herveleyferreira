@@ -1,7 +1,5 @@
 ## *Olá, eu sou a Herveley Ferreira!* 😊
 
-**`Desenvolvedora em Formação`**
-
 Me chamo Herveley Ferreira e moro em João Pessoa - PB.
 Atualmente sou estudante de Engenharia de Software pela UNINTER e sou apaixonada por tecnologia, inovação e aprendizado contínuo.
 
@@ -19,10 +17,8 @@ Seja bem-vindo(a) ao meu repositório! 🚀💻
   <img align="center" alt="KUBERNETES" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg"/>
   <img  align="center" alt="JAVA" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   <img  align="center" alt="PYTHON" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-  <img  align="center" alt="MYSQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-  <img  align="center" alt="POSTGRESQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
-  <img align="center" alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
-  <img align="center" alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+  <img  align="center" alt="GRAFANA" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" />
+  <img  align="center" alt="PROMETHEUS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" />
 
 ***
 
